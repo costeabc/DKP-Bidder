@@ -130,7 +130,7 @@ function B:OnCommReceived(prefix, message, distribution, sender)
                 B.view.itemLinkEditBox:SetText(data.item);----------------TODO tu jest linjka z editboxem nowym
                 B.view.overBidButton:Enable();
                 B.view.bidButton:Enable();
-                PlaySound("RaidWarning", "Master");
+                PlaySound(8959, "Master");
                 B.mainFrame:Show()
             elseif msg=="stopBids" then
                 if sender==B.bidMaster then
