@@ -323,13 +323,13 @@ function B:CreateRosterFrame()
     f.view={};
     f:SetScript("OnShow",
     function(self)
-        PlaySound("igCharacterInfoOpen");
+        PlaySound(839);
         self:UpdateList();
         GuildRoster();
     end)
     f:SetScript("OnHide",
     function(self)
-        PlaySound("igCharacterInfoClose");
+        PlaySound(839);
     end)
     local v=f.view;
     
