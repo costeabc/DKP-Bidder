@@ -1,0 +1,10 @@
+## Interface: 70300
+## Title: DKP - |CFF2459FFBidder -Mawnk
+## Notes: Bidder for DKP points. Usable as standalone bidder, or with DKP - Manager to manage points. 
+## Dependencies:
+## OptionalDeps: Ace3
+## Version: 70300.0.0
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: DKPbidderDB
+embeds.xml
