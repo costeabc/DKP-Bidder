@@ -1,5 +1,5 @@
 ## Interface: 70300
-## Title: DKP - |CFF2459FFBidder -Mawnk
+## Title: DKP - Bidder |c00ff96FFMawnk
 ## Notes: Bidder for DKP points. Usable as standalone bidder, or with DKP - Manager to manage points. 
 ## Dependencies:
 ## OptionalDeps: Ace3
