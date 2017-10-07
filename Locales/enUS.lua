@@ -1,0 +1,52 @@
+
+local L = LibStub("AceLocale-3.0"):NewLocale("DKP-Bidder", "enUS", true, true)
+if not L then return end
+
+L["Adding transfer into queue: "] = true
+L["Bid"] = true
+L["Bid Master: "] = true
+L["Bid Master: none"] = true
+L["Cancel"] = true
+L["Clearing transfer queue. No DKP manager was found. There must be at least one player with working manager module in order to perform transfer."] = true
+L["Current"] = true
+L["DKP: "] = true
+L["DKP-Bidder "] = true
+L["DKP Roster Menu"] = true
+L[" DKP to "] = true
+L["enabling/disabling minimap icon"] = true
+L["Error message"] = true
+L["Export data"] = true
+L["Export selected data"] = true
+L["Guild dkp pool is "] = true
+L["icon"] = true
+L["Info"] = true
+L["Looking for DKP manager."] = true
+L["Min bid: "] = true
+L["Name"] = true
+L["Nr"] = true
+L["Open DKP roster"] = true
+L["Overall"] = true
+L["OverBid by "] = true
+L["Possible usage with slash command:"] = true
+L["prints summed amount of guild members dkp"] = true
+L["Rank"] = true
+L["Sending transfer request."] = true
+L["show"] = true
+L["shows bidding frame"] = true
+L["%sLeft-Click%s to toggle the addon."] = true
+L["Spent"] = true
+L["%sRight-Click%s to move this button"] = true
+L["%sShift+Click%s to hide this button"] = true
+L["sum"] = true
+L["The sum you enter will be split among selected players."] = true
+L["Time left: "] = true
+L["Total"] = true
+L["Total guild dkp acquired is "] = true
+L["Transfer"] = true
+L["Transfer DKP"] = true
+L["Type how many points you want to transfer to selected players: "] = true
+L["version Loaded"] = true
+L["You can copy this by pressing ctrl+c."] = true
+L["You have to bid more then minimum bid: "] = true
+L["Your dkp have changed by .+. Reason: .+. Your new dkp amount is (.+)"] = true
+
